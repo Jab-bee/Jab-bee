@@ -10,7 +10,7 @@
 - 🌱 Me especializo en **Python y Machine Learning**
 
 - 💼 Tengo experiencia en:
-  - Pipelines de datos con Python y Azure Synapse Analytics
+  - Pipelines de datos con Python
   - Procesamiento de datos con Python (Pandas, PySpark)
   - Soluciones de IA generativa para informes automáticos
   - Optimización de modelos predictivos con Scikit-learn y PyTorch
