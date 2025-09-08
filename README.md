@@ -58,7 +58,7 @@
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jabc585&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jab-bee&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jabc585&layout=compact&theme=radical" alt="Lenguajes más usados" />
 </p>
 
